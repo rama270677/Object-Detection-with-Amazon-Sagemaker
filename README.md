@@ -29,21 +29,12 @@ Computer Vision
 Steps involved:
 
 Introduction,
-
 Annotations,
-
 Visualize the Data,
-
 Sagemaker Setup,
-
 Preparing the Data,
-
 Uploading Data to S3,
-
 Sagemaker Estimator,
-
 Data Channels and Model Training,
-
 Deploying the Model,
-
 Inference and Deleting the Endpoint.
